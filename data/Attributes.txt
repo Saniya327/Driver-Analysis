@@ -1,0 +1,70 @@
+id, Device ID
+session, Session ID
+time, Timestamp
+----------------------------------------------------------------
+Gautham :
+
+k10, Mass Air Flow Rate
+k11, Throttle Position(Manifold)
+k21, Distance travelled with MIL/CEL lit
+k23, Fuel Rail Pressure
+k2f, Fuel Level (from Engine ECU)
+k33, Barometric Pressure (from vehicle)
+k4, Engine Load
+k46, Ambient Air Temperature
+k5, Engine Collant Temperature
+kb, Intake Manifold Pressure
+kc, Engine RPM
+kd, Speed (OBD)
+kf, Intake Air Temperature
+kff1001, Speed(GPS)
+-----------------------------------------------------------------
+Salman: 
+
+kff1005, GPS Longitude
+kff1006, GPS Latitude
+kff1010, GPS Altitude
+kff1201, Miles per Gallon(Instant)
+kff1202, Turbo Boost and Vacuum Gauge
+kff1203, Kilometers per Litre (Instant)
+kff1204, Trip distance
+kff1205, Trip average MPG (miles per gallon)
+kff1206, Trip average KPL (kilometres per litre)
+kff1207, Litres per 100 kilometre (Instant)
+kff1208, Trip average Litres/100 KM
+kff120c, Trip distance ()stored in vehicle profile)
+kff1220, Acceleration Sensor (X-axis)
+kff1221, Acceleration Sensor (Y-axis)
+-----------------------------------------------------------------
+Saniya:
+
+kff1222, Acceleration Sensor (Z-axis)
+kff1223, Acceleration Sensor (Total)
+kff1225, Torque
+kff1226, Horsepower (at the wheels)
+kff1237, GPS vs OBD Speed Difference
+kff1238, Voltage (OBD Adapter)
+kff1239, GPS Accuracy
+kff123a, GPS Satellites
+kff123b, GPS Bearing
+kff125a, Fuel flow rate/minute
+kff125c, Fuel cost (trip)
+kff125d, Fuel flow rate/hour
+kff1263, Average trip speed (whilst moving only)
+kff1266, Trip time (since journey start)
+-----------------------------------------------------------------
+Sonza:
+
+kff1267, Trip time (whilst stationary)
+kff1268, Trip time (whilst moving)
+kff1269, Volumetric Efficiency (calculated)
+kff126a, Distance to empty (estimated)
+kff126b, Fuel Remaining (calculated from vehivle profile)
+kff126d, Cost per mile/km (Instant)
+kff126e, Cost per mile/km (Trip)
+kff1271, Fuel used (trip)
+kff1272, Average trip speed (whilst stopped or moving)
+kff1273, Engine kW (at the wheels)
+kff5201, Miles per Gallon (Long term average)
+kff5202, Kilometers per litre (Long term average)
+kff5203, Litres per 100 Kilometer (Long term average)
